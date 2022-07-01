@@ -1,0 +1,60 @@
+.Footer {
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: -67px -99px 76px rgba(0, 0, 0, 0.8)  ; 
+}
+
+.headfoot {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.f {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 20px 298.5px;
+    background-color: rgb(65, 68, 71);
+    color: white;
+    border: 2px solid gray;
+}
+
+.T {
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    display: flex;
+    justify-content: right;
+    margin-left: 3px;
+}
+
+.E {
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 3px;
+}
+
+
+.P {
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 3px;
+}
+
+.W {
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 3px;
+}
